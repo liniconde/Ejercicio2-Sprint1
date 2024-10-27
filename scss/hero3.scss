@@ -1,0 +1,54 @@
+.hero3 {
+  width: 100%;
+  display: flex;
+  background-color: #ffffff;
+  padding: 35px 50px;
+  align-items: center;
+}
+
+.hero3__texto3 {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+}
+
+.hero3__texto3 h1 {
+  font-size: 32px;
+  text-align: center;
+  gap: 100%;
+}
+
+.hero3__texto3 p {
+  color: #d0d1d6;
+  text-align: center;
+  width: 40%;
+}
+
+.hero3__cajas-logos {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  text-align: center;
+}
+
+.card img {
+  align-items: center;
+  gap: 30px;
+}
+.T1 {
+  width: 300px;
+  height: 400px;
+  border-radius: 10px;
+  box-shadow: 0 10px 20px rgb(202, 201, 201, 0.2);
+  align-items: center;
+  padding: 40px;
+  border-top: none;
+}
+.T1 img {
+  width: 120px;
+}
+
+.T1 button {
+  width: 100% !important;
+}

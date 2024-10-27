@@ -1,0 +1,17 @@
+@import "../node_modules/bootstrap/scss/bootstrap";
+@import "../node_modules/bootstrap/scss/functions";
+@import "../node_modules/bootstrap/scss/variables";
+
+@import "./newsletter.scss";
+@import "./footer.scss";
+@import "./main-container.scss";
+@import "./hero.scss";
+@import "./hero2.scss";
+@import "./hero3.scss";
+@import "./hero4.scss";
+@import "./header.scss";
+@import "./body-style.scss";
+
+* {
+  margin: 0;
+}
